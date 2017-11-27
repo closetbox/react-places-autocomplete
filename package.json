@@ -1,5 +1,5 @@
 {
-  "name": "react-places-autocomplete",
+  "name": "@closetbox/react-places-autocomplete",
   "version": "5.4.2",
   "description": "A React component for Google Maps Places Autocomplete",
   "main": "dist/index.js",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenny-hibino/react-places-autocomplete.git"
+    "url": "https://github.com/closetbox/react-places-autocomplete.git"
   },
   "keywords": [
     "React.js",
